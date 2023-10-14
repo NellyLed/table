@@ -1,0 +1,18 @@
+body {
+    /*background-color:#da70d6;*/
+
+    background-image: url('./image/фон.jpg');
+    background-attachment: fixed; /*зафиксировать изображение*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.red_one {
+    text-indent: 1.5cm; /*отступ красной строки*/
+    font-family: 'Verdana'; /*шрифт*/
+    font-style: italic; /*курсив*/
+    color: #ba55d3;
+    font-weight: bold; /*жирность*/
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
